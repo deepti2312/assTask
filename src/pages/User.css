@@ -1,0 +1,28 @@
+.div0 {
+    background-color: aliceblue;
+}
+
+.div1 {
+    background-color: #99b9df;
+    list-style-type: square;
+    text-align: center;
+    padding: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    overflow: hidden;
+
+} 
+.div2 {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   
+  }
+
+.div3 p{
+  text-align: center;
+  margin: 0;
+  padding: 0; 
+  
+}
