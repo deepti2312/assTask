@@ -1,35 +1,57 @@
-
 .fullPage ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-  }
-  
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
 .p1 {
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
 }
-li {
-    float: center;
-    padding: 20px;
-    border: 10px;
-    
-  }
-  
-li a {
-    display: block;
-    color: black;
-    margin-top: 10px;
-    text-align: center;
-    padding: 24px 6px;
-    text-decoration: none;
-    border: 2px rgb(17, 16, 16) solid;
 
-  }
-  
-  /* Change the link color to #111 (black) on hover */
+li {
+  float: center;
+  padding: 20px;
+  border: 10px;
+
+}
+
+li a {
+  display: block;
+  color: black;
+  margin-top: 10px;
+  text-align: center;
+  padding: 24px 6px;
+  text-decoration: none;
+  border: 2px rgb(17, 16, 16) solid;
+
+}
+
+/* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: rgb(195, 220, 241);
-    padding: 20px;
-  }
+  background-color: rgb(195, 220, 241);
+  padding: 20px;
+}
+
+.div0 {
+  background-color: aliceblue;
+}
+
+.div01 {
+  background-color: #99b9df;
+  list-style-type: square;
+  text-align: center;
+  padding: 40px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: larger;
+  overflow: hidden;
+
+}
+
+.div02 p {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+
+}
